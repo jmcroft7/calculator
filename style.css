@@ -34,6 +34,7 @@ section {
     justify-content: center;
 }
 
+/* calculator starts here */
 .container {
     width: 90%;
     max-width: 400px;
@@ -44,6 +45,7 @@ section {
     box-shadow: 0 3px 10px rgb(0, 0, 0, 0.5);
 }
 
+/* result display */
 .display {
     background-color: var(--accent-color);
     height: 100px;
@@ -69,6 +71,7 @@ section {
     opacity: 0.3;
 }
 
+/* button formatting */
 .row {
     color: whitesmoke;
     display: flex;
