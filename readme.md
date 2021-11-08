@@ -1,10 +1,8 @@
 A fully functional calculator made with HTML, CSS, and JavaScript utilizing primarily Flexbox. (the percent sign functions as a modulo operator and does not calculate percentage but rather the remainder of a division.)
 
 ## Screenshot
-<p>
+<div align="center">
+  <a href="demo.PNG">
     <img src="demo.PNG" />
-</p>
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/).
+    </a>
+</div>
